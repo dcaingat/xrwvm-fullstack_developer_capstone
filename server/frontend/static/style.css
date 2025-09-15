@@ -5,6 +5,7 @@ img{
 
 .card{
   border: rgb(103, 102, 105) 3px solid;
+  border-radius: 55px;
   display: flex;  
   flex-direction: column;
   margin-left:5%;
@@ -59,6 +60,12 @@ img{
   align-items: center;
   justify-content: center;
   flex:1
+}
+
+.items{
+  align-items: center;
+  justify-content: center;
+  color: #7186ff
 }
 
 .form_panel {
